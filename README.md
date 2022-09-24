@@ -1,9 +1,9 @@
 # APEX
-There are Four pages on the site:
-1-Home
-2-About us
-3-Services
-4-Contact Us
+##There are Four pages on the site:
+### 1-Home
+### 2-About us
+### 3-Services
+### 4-Contact Us
 
 ## Tools :
  [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)
